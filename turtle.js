@@ -19,7 +19,6 @@ color("#ff0000")
 */
 
 showGrid(50);
-setSpeed(200);
 
 width(5);
 color("blue");
